@@ -13,21 +13,20 @@
 >
 > I look for opportunities to optimize processes, develop people and contribute to collective growth.
 
-### My story
+### Sobre mim
 
-> My history in the technology area started when I was 14 and I had the first opportunity to take a basic computer course. It was there that I fell in love with technology and, as at the time my parents didn't have the money to buy a computer, I started to look for one course after another to keep myself updated and in touch with technology. Soon the basic courses no longer satiate my appetite for new information, so I switched to hardware, which gave me the opportunity to start working with maintenance. For a while it gave me good experiences but, like before, I was thirsty for more.
+> Um ser de uma galáxia distante com cabelo Playmobil e síndrome de Asperger. Amante da tecnologia, tentando se reinventar a cada dia.
 >
-> In the meantime, I met a certain penguin that made my eyes shine. I started my experience with Linux. But I still didn't have a computer at that time, so I borrowed the computer from a friend to do the installation. Luckily for me, my friend had backup of his things because, the experience was a total failure and, of course, I had to return the machine to him.
+> Desenvolvedor dedicado com +14 anos de experiência. Tenho experiência em PHP, Javascript e Linux, programando diversos tipos de aplicações para clientes, desde soluções simples até aplicações complexas e completas. Focado na otimização de processos, reduzi o tempo de processamento dos dados, sem perder qualidade.
+> Focado no desenvolvimento de Back-end em PHP com Laravel Framework, estudando NodeJS incessantemente para ampliar horizontes no back-end. Também tenho estudado muito React e VueJs para obter uma base de front-end.
 >
-> A few years later, I finally managed to buy my own computer and, of course, went back to playing with Linux. I tested so many distributions that I lost count of how many there were, some don't even exist anymore. In this whole process, there were two distributions that caught my attention and made me want to use more and more, Slackware and openSUSE. Except that Slackware, unfortunately did not support my ATI Radeon at the time, so I stayed with openSUSE which proved to be very stable and I really liked the options that the distro provided me.
+> Busco oportunidades de otimizar processos, desenvolver pessoas e contribuir para o crescimento coletivo.
+
+### Acerca de mí
+
+> Un ser de una galaxia lejana con cabello de Playmobil y síndrome de Asperger. Amante de la tecnología, que intenta reinventarse cada día.
 >
-> In 2005, I left maintenance a little "aside" and went to work in a company by appointment, an appointment that came precisely by my first computer teacher, to replace him. In this company, there was a system that was neither understood nor used and I was asked to understand and put this to work. But, the system had many flaws, it gave more problems than it solved, it was very confusing.
-It was at that moment that, my thirst for the development area, already provoked by the college, started to speak louder. I offered an alternative solution for the board: "A new system made in PHP with MySQL database".
-However, there was a problem with my proposal: "I DIDN'T KNOW HOW TO PROGRAM". It was then that, I got my backpack, the money to start the project, I enrolled in a PHP Training course and I left.
+> Desarrollador dedicado con +14 años de experiencia. Tengo experiencia en PHP, Javascript y Linux, programando diferentes tipos de aplicaciones para clientes, desde soluciones simples hasta aplicaciones complejas y completas. Enfocado en optimizar procesos, reduje el tiempo de procesamiento de datos, sin perder calidad.
+> Enfocado en el desarrollo de back-end en PHP con Laravel Framework, estudiando NodeJS incesantemente para ampliar horizontes en el back-end. También he estado estudiando mucho React y VueJs para obtener una base de front-end.
 >
-> From that moment on, I never left development behind. But like everything in life, experience comes with time and learning. So, in 2007, after my girlfriend at the time broke up with me, I decided to move to Florianópolis and look for work in a development company. As soon as I arrived in Florianópolis I got a job at a Web Development company and, in 6 months, I learned more in practice than I had learned in 2 ½ years of college. I was forced to develop in all areas.
->
-> From that date, I accumulated several experiences, good and bad, but all of them contributed to me becoming not only a better professional but also a better person.
->
-> Nowadays, I have the opportunity to participate in several projects and continue to improve my knowledge more and more, and, of course, always wanting to learn more and more, after all, technology keeps on evolving.
-> 
+> Busco oportunidades para optimizar procesos, desarrollar personas y contribuir al crecimiento colectivo. 
